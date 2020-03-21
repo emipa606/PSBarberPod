@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ResearchTabDef>
+    <defName>PS_ResearchTab</defName>
+    <label>Plasteel Surgery</label>
+  </ResearchTabDef>
+
+  <ResearchProjectDef>
+    <defName>PS_BarberPodResearch</defName>
+    <tab>PS_ResearchTab</tab>
+    <label>barber pod</label>
+    <description>After pushing the limit of research into the medical applications of plasteel scientists discovered something they never imagined possible, the technology to cut and color a person’s hair. This modified cryptosleep casket is installed with a mechanical auto barber able to provide any patron with a new hair do. 
+    
+It also comes with a build in tanning bed and can be upgraded to allow alteration of body and facial structure, but that's not nearly as impressive as cutting hair.</description>
+    <baseCost>2000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>MicroelectronicsBasics</li>
+    </prerequisites>
+    <researchViewX>0</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+
+</Defs>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThoughtDef>
+    <defName>PS_GotHairCut</defName>
+    <durationDays>1</durationDays>
+    <stages>
+      <li>
+        <label>got a hair cut</label>
+        <description>I feel like a brand new person.</description>
+        <baseMoodEffect>1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>
