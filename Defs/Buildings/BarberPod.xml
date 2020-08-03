@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef ParentName="BuildingBase">
     <defName>PS_BarberPod</defName>
     <category>Building</category>
@@ -59,10 +58,8 @@
         <shortCircuitInRain>true</shortCircuitInRain>
         <basePowerConsumption>100</basePowerConsumption>
       </li>
-      <li Class="CompProperties_Flickable"/>
-      <li Class="CompProperties_Breakdownable"/>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Breakdownable" />
     </comps>
   </ThingDef>
-
-
 </Defs>

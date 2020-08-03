@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ResearchTabDef>
     <defName>PS_ResearchTab</defName>
     <label>Plasteel Surgery</label>
   </ResearchTabDef>
-
   <ResearchProjectDef>
     <defName>PS_BarberPodResearch</defName>
     <tab>PS_ResearchTab</tab>
@@ -20,5 +19,4 @@ It also comes with a build in tanning bed and can be upgraded to allow alteratio
     <researchViewX>0</researchViewX>
     <researchViewY>1</researchViewY>
   </ResearchProjectDef>
-
 </Defs>
