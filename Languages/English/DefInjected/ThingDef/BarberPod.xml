@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <PS_BarberPod.label>barber pod</PS_BarberPod.label>
   <PS_BarberPod.description>A cryptosleep casket modified to contain an automated barber capable of recoloring or styling hair.</PS_BarberPod.description>
   <PS_BarberPod_Blueprint.label>barber pod (blueprint)</PS_BarberPod_Blueprint.label>
   <PS_BarberPod_Blueprint_Install.label>barber pod (blueprint)</PS_BarberPod_Blueprint_Install.label>
   <PS_BarberPod_Frame.label>barber pod (building)</PS_BarberPod_Frame.label>
   <PS_BarberPod_Frame.description>A cryptosleep casket modified to contain an automated barber capable of recoloring or styling hair.</PS_BarberPod_Frame.description>
-
-
 </LanguageData>
