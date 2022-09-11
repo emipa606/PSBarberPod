@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PS_BarberPod.label>理发舱</PS_BarberPod.label>
+  <PS_BarberPod.description>一个可以自动理发、染发的舱室。</PS_BarberPod.description>
+  <PS_BarberPod_Blueprint.label>理发舱(蓝图)</PS_BarberPod_Blueprint.label>
+  <PS_BarberPod_Blueprint_Install.label>理发舱(蓝图)</PS_BarberPod_Blueprint_Install.label>
+  <PS_BarberPod_Frame.label>理发舱(建造中)</PS_BarberPod_Frame.label>
+  <PS_BarberPod_Frame.description>一个可以自动理发、染发的舱室。</PS_BarberPod_Frame.description>
+</LanguageData>
